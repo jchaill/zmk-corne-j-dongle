@@ -38,7 +38,7 @@
         };
        mt: mod_tap {
            flavor = "tap-preferred";
-           tapping-term-ms = <500>;
+           tapping-term-ms = <250>;
        };
     };
 
